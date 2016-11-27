@@ -1,0 +1,10 @@
+<html>
+<head>
+	@include('layout.head')
+</head>
+<body>
+@include('layout.header')
+@include('layout.gallery')
+@include('layout.footer')
+</body>
+</html>
